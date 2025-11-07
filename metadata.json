@@ -1,0 +1,5 @@
+{
+  "name": "Home Electricity Tracker",
+  "description": "A progressive web application to capture, store, and analyze daily home electricity readings for two houses, including solar generation.",
+  "requestFramePermissions": []
+}
